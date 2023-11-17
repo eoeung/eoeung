@@ -46,6 +46,8 @@ Also if you want to know more about me, contact me anytime ! -->
 
 <!-- <div style="display:flex; flex-direction:row;> -->
 <div>
+    <!-- 보안 취약점 때문에 아마도 GitHub에서는 target="_blank"를 막은 것 같다고 한다. -->
+    <!-- 참고 링크 : https://stackoverflow.com/a/67661218 -->
     <a href="https://eoeung.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory& logoColor=white">
     </a>
