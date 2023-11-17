@@ -65,9 +65,9 @@ Also if you want to know more about me, contact me anytime ! -->
    <!-- Language -->
     <p><strong>Language</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Python-e5e5e5?style=flat-square&logo=python&logoColor=3873a3"> 
-        <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=openjdk&logoColor=ffffff"> 
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Python-e5e5e5?style=for-the-badge&logo=python&logoColor=3873a3"> 
+        <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=openjdk&logoColor=ffffff"> 
     </div>
    </br>
     <!-- Framework -->
