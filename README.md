@@ -46,7 +46,7 @@ Also if you want to know more about me, contact me anytime ! -->
 
 <!-- <div style="display:flex; flex-direction:row;> -->
 <div>
-    <a href="https://eoeung.tistory.com">
+    <a href="https://eoeung.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory& logoColor=white">
     </a>
 </div>
